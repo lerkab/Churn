@@ -1,1 +1,1 @@
-Comparison of the Machine Learning models
+Predicting customer churn
